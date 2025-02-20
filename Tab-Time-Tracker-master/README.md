@@ -1,3 +1,5 @@
+**Tab Time Tracker Chrome Extension**
+
 **COMPANY**: CODTECH IT SOLUTION
 
 **NAME**: HUDA RASHID ALI ANSARI
@@ -15,3 +17,5 @@ The Tab Time Tracker Chrome Extension is a lightweight tool that helps you keep 
 - Automatically tracks the time spent on each open tab.
 - Provides a simple and intuitive dashboard to view tab usage.
 - Data is cleared when the browser is closed, making it session-specific.
+
+**OUTPUT OF A TASK**
